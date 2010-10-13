@@ -58,13 +58,13 @@
 !SLIDE
 ## You can use any object as key, <br />not only strings or symbols
 
+!SLIDE
+
     @@@ ruby
     
     $ foo = [1, 2, 3]
 
 !SLIDE
-## You can use any object as key, <br />not only strings or symbols
-
     @@@ ruby
 
     $ foo = [1, 2, 3]
@@ -72,14 +72,8 @@
     $ bar = Hash[foo, 'lorem']
 
 !SLIDE
-## You can use any object as key, <br />not only strings or symbols
-
     @@@ ruby
 
-    $ foo = [1, 2, 3]
-
-    $ bar = Hash[foo, 'lorem']
-    
     $ bar[foo] # => 'lorem'
 
 !SLIDE

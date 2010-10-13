@@ -39,4 +39,8 @@
     
 !SLIDE
 
-### Ruby creates one **symbol** for **every method name**<br /> (:to_i, :to_s, :object_id, etc.)
+# Important fact
+
+!SLIDE
+
+## There is one **symbol** <br />for **every method name**<br />(:to_i, :to_s, :object_id, etc.)

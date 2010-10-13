@@ -261,14 +261,19 @@
 
 !SLIDE
 
-# But every method accepts an implicit argument
-<br />
-# A block
+# A **block**
 
 !SLIDE
 
 # **square** is a proc
-# let's turn it into a block
+
+!SLIDE
+
+# let's turn it into a **block**
+
+!SLIDE
+
+# The **&** to the rescue
 
 !SLIDE
     @@@ ruby
@@ -361,3 +366,41 @@
     # >> 4
     # >> 5
     # >> 6
+    
+!SLIDE
+
+# The **&** is very useful
+
+!SLIDE
+
+    @@@ ruby
+    class User
+      
+      def name
+        
+        @name
+        
+      end
+      
+    end
+    
+!SLIDE
+    @@@ ruby
+    users = [user1, user2, user3]
+
+!SLIDE
+
+    @@@ruby
+    users.each do |user| 
+
+      puts user.name
+
+    end
+
+!SLIDE
+    @@@ruby
+    users.each &:name
+
+    # >> John
+    # >> Peter
+    # >> Charles

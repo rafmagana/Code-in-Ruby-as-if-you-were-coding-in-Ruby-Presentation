@@ -3,11 +3,11 @@
 	[
 		{"section":"title"},
 		{"section":"about_me"},
-		{"section":"what_you_will_find"},
 		{"section":"overall_goal"},
 		{"section":"questions"},
 		{"section":"intro_ruby"},
 		{"section":"closures"},
-		{"section":"idioms"}
+		{"section":"idioms"},
+		{"section":"thanks"}
 	]
 }

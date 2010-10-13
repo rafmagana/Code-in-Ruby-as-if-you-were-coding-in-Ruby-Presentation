@@ -80,7 +80,7 @@
 
 !SLIDE
 
-## Square brackets are methods in Ruby, nothing else!
+## Square brackets are methods, nothing else!
 
 !SLIDE
     @@@ ruby

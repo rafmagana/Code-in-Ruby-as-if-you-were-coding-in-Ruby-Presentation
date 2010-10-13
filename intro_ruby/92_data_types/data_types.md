@@ -25,7 +25,7 @@
     
     NilClass
     
-## All these types are actually classes
+## All these types are actually **classes**
 
 !SLIDE small
 
@@ -81,7 +81,11 @@
 
 !SLIDE
 
-# *Classes* are **objects** in Ruby
+# *Classes* are **objects** in Ruby!
+
+!SLIDE center
+
+![Amazed](amazed.jpg)
 
 !SLIDE
 # Good bye

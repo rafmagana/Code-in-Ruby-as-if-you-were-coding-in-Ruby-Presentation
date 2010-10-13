@@ -26,7 +26,11 @@
 
 !SLIDE
 
-## Operators are methods in Ruby!
+#  Operators are methods!!!
+
+!SLIDE center
+
+![Amazed](amazed.jpg)
     
 !SLIDE
     @@@ ruby

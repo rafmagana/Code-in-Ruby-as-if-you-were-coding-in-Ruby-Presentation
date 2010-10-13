@@ -33,7 +33,7 @@
     
 !SLIDE
 
-# Animals and People can walk, let's share that behaviour
+# Animals and People can walk, let's share that behavior
 
 !SLIDE
 
@@ -63,6 +63,9 @@
 !SLIDE
 
 ## Bringing module methods as instance methods
+
+!SLIDE
+
     @@@ ruby
     
     class Animal
@@ -90,6 +93,9 @@
 !SLIDE
 
 ## Bringing module methods as class methods
+
+!SLIDE
+
     @@@ ruby
 
     class Animal
@@ -206,6 +212,20 @@
     class Fixnum
       include Decorable
     end
+    
+!SLIDE
+
+    @@@ ruby
+    class ClassOnSteroids
+      
+      include TextUtil
+      include Loggeable
+      include Helpers::MyHelper
+      include Formats::XMLify
+      
+      extend Configurable
+      
+    end
 
 !SLIDE subsection
 
@@ -267,6 +287,16 @@
 # Question mark methods
 
 ## By convention they should return a false or true
+
+!SLIDE center
+
+    @@@ php
+    $user->isAdmin(); # => true
+
+!SLIDE center
+
+    @@@ ruby
+    user.admin? # => true
 
 !SLIDE
 

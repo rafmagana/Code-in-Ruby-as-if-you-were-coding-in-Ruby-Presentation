@@ -188,9 +188,13 @@
     @@@ ruby
     
     class Foo
+      
       def initialize
+        
         @bar = 'lorem'
+        
       end
+      
     end
 
 !SLIDE
@@ -248,7 +252,7 @@
 # A shorter version
     @@@ ruby
     class Animal
-      attr_accessor :name, :age, :color
+      attr_accessor :name
     end
 
 !SLIDE
@@ -297,11 +301,11 @@
 
 !SLIDE
 
-# self
+# Introducing **self**
 
 !SLIDE
 
-# A reference to the current receiver
+# A **reference** to the current receiver
 
 !SLIDE
 
@@ -310,7 +314,7 @@
 
 !SLIDE
 
-# If we omit the receiver, it defaults to *self*
+# If we omit the receiver, <br />it defaults to **self**
 
 !SLIDE
     @@@ ruby
@@ -379,3 +383,15 @@
     end
     
     # => SelfStudy
+    
+!SLIDE
+
+# Remeber this
+  
+!SLIDE
+
+# **self** is not **this**
+
+!SLIDE
+
+# **self** is not even like **this**

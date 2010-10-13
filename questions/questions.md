@@ -1,57 +1,93 @@
-!SLIDE bullets incremental
+!SLIDE
 
-# Why should I learn another programming language?
+# *Why should I learn another programming language?*
 
-* Languages are tools in the bag of a programmer
-* What tools should you carry in your bag?
-* Enough tools to get your work done
+!SLIDE
 
-!SLIDE bullets incremental
+# Languages are tools in the bag of a programmer
 
-# Why should I learn another programming language?
+!SLIDE
 
-* you like it
-* your client have requested it to you
-* your boss have commanded it to you
-* you need the features a language offers you
-* to impress the girl you want to have sex with
+# What tools should you <br />carry in your bag?
 
-!SLIDE bullets incremental
+!SLIDE
 
-# Why Ruby?
+# **Enough tools** <br />to get your work done
 
-* Easy to learn
-* Everything is an object
-* It lets you do things in a elegant, clean, concise and compact way
-* The community is huge!
-* Rails
+!SLIDE
 
-!SLIDE bullets center
+# *Why should I learn another programming language?*
 
-## Once you get the hang of some of the basics of computer languages: 
-* flow control, data structures, objects, etc. 
-* the biggest differences come from syntax.
+!SLIDE
 
-!SLIDE bullets incremental
+# you like it
 
-# How do I learn Ruby
+!SLIDE
 
-* Languages have idioms <br />(language-specific features)
-* To unleash the real power of a language <br />we must learn its idioms
-* C have i++
-* Perl have =~
-* Java have 
-* English have 'over the hill'
+# your client have requested it to you
+
+!SLIDE
+
+# your boss have commanded it to you
+
+!SLIDE
+
+# you need the features a language offers you
+
+!SLIDE
+
+# to impress the girl <br /> you want to have sex with
 
 !SLIDE bullets incremental
 
-# How do I learn Ruby anyways
+# *Why Ruby?*
 
-* First of all, I won't teach you Ruby in 45 minutes
-* I'll try to show you what I think will help you to teach yourself Ruby
-* You'll be presented with <br />an important set of Ruby idioms
-* We'll see the main features of Ruby
-* meh
+!SLIDE bullets incremental
+
+# Easy to learn
+
+!SLIDE
+# Everything is an object
+
+!SLIDE
+# It lets you do things in a elegant and clean way
+
+!SLIDE
+# The community is huge!
+
+!SLIDE
+# Rails
+
+!SLIDE bullets incremental
+
+# *How do I learn Ruby*
+
+!SLIDE
+
+# Once you get the basics of computer languages
+
+!SLIDE
+
+# flow control, data structures, objects, etc. 
+
+!SLIDE
+# the biggest differences come from syntax.
+
+!SLIDE
+
+# **Languages have idioms** <br />
+###(language-specific features)
+
+!SLIDE
+# C have **i++** and **i--**
+
+!SLIDE
+
+# English have **'over the hill'**
+
+!SLIDE
+
+# Spanish have <br />**dos pájaros de un tiro**
 
 !SLIDE
 
@@ -59,3 +95,7 @@
 
 !SLIDE
 ## Generally the <strong class='emphasis'>first language</strong> you learn <br /><strong class='emphasis'>governs</strong> the way you code until something significantly better comes along
+
+!SLIDE
+
+# How do I learn Ruby anyways?
