@@ -1,0 +1,24 @@
+strong.emphasis {
+ 	color: red;
+ }
+
+strong {
+	color: #808000;
+}
+
+em {
+	color: #2554C7;
+	font-style: normal;
+}
+
+h3 {
+  color: #333;
+}
+
+.supersection {
+  background: #FF0000;
+  padding-top: 220px;
+  color: #fff;
+  height: 100%;
+  font-size: 1.4em;
+}
